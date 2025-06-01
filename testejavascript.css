@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgba(0, 255, 221, 0.534);
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+   
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+
+#PR1 {
+    border-color: rgb(253, 4, 4);
+    color: blue;
+
+
+}
